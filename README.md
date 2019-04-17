@@ -16,4 +16,5 @@ Check to see if there are any changes to the state.
 
 # 4. Updating the state
 
-Update the state
+Update the state rules
+Number 1 rule - "Only an event can change the state of the store."
